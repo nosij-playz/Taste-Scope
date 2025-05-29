@@ -1,0 +1,1328 @@
+{
+  "apple_pie": {
+    "description": "A classic American dessert made with a buttery crust and sweet apple filling, often flavored with cinnamon and served with ice cream or whipped cream.",
+    "calories_per_serving": 605,
+    "ingredients": [
+      "apples",
+      "sugar",
+      "cinnamon",
+      "flour",
+      "butter",
+      "pie crust"
+    ],
+    "portion_size": "Typical serving size of apple pie",
+    "origin": "United States"
+  },
+  "baby_back_ribs": {
+    "description": "Tender pork ribs that are seasoned, grilled or smoked, and often coated with a tangy barbecue sauce.",
+    "calories_per_serving": 637,
+    "ingredients": [
+      "pork ribs",
+      "barbecue sauce",
+      "salt",
+      "black pepper",
+      "garlic powder",
+      "paprika"
+    ],
+    "portion_size": "Typical serving size of baby back ribs",
+    "origin": "Korea"
+  },
+  "baklava": {
+    "description": "A sweet Middle Eastern pastry made of layers of phyllo dough filled with chopped nuts and sweetened with syrup or honey.",
+    "calories_per_serving": 369,
+    "ingredients": [
+      "phyllo dough",
+      "walnuts",
+      "pistachios",
+      "butter",
+      "honey",
+      "sugar"
+    ],
+    "portion_size": "Typical serving size of baklava",
+    "origin": "Middle East"
+  },
+  "beef_carpaccio": {
+    "description": "An Italian appetizer of thinly sliced raw beef, typically served with olive oil, lemon juice, capers, and Parmesan cheese.",
+    "calories_per_serving": 566,
+    "ingredients": [
+      "raw beef",
+      "olive oil",
+      "lemon juice",
+      "capers",
+      "Parmesan cheese",
+      "arugula"
+    ],
+    "portion_size": "Typical serving size of beef carpaccio",
+    "origin": "Thailand"
+  },
+  "beef_tartare": {
+    "description": "A French dish made of finely chopped raw beef mixed with seasonings and served with a raw egg yolk on top.",
+    "calories_per_serving": 229,
+    "ingredients": [
+      "raw beef",
+      "egg yolk",
+      "capers",
+      "shallots",
+      "Dijon mustard",
+      "Worcestershire sauce"
+    ],
+    "portion_size": "Typical serving size of beef tartare",
+    "origin": "France"
+  },
+  "beet_salad": {
+    "description": "A refreshing salad made with roasted or boiled beets, often paired with goat cheese, nuts, and a light vinaigrette.",
+    "calories_per_serving": 264,
+    "ingredients": [
+      "beets",
+      "goat cheese",
+      "arugula",
+      "walnuts",
+      "olive oil",
+      "balsamic vinegar"
+    ],
+    "portion_size": "Typical serving size of beet salad",
+    "origin": "Middle East"
+  },
+  "beignets": {
+    "description": "Deep-fried pastry squares, typically dusted with powdered sugar. A popular treat in New Orleans, often enjoyed with coffee.",
+    "calories_per_serving": 526,
+    "ingredients": [
+      "flour",
+      "sugar",
+      "yeast",
+      "eggs",
+      "milk",
+      "butter",
+      "powdered sugar"
+    ],
+    "portion_size": "Typical serving size of beignets",
+    "origin": "China"
+  },
+  "bibimbap": {
+    "description": "A traditional Korean dish consisting of mixed rice topped with assorted vegetables, meat, a fried egg, and gochujang chili paste.",
+    "calories_per_serving": 646,
+    "ingredients": [
+      "rice",
+      "beef",
+      "spinach",
+      "carrot",
+      "zucchini",
+      "egg",
+      "gochujang"
+    ],
+    "portion_size": "Typical serving size of bibimbap",
+    "origin": "Korea"
+  },
+  "bread_pudding": {
+    "description": "A dessert made by baking stale bread soaked in a mixture of milk, eggs, sugar, and spices, often served with sauce.",
+    "calories_per_serving": 469,
+    "ingredients": [
+      "bread",
+      "milk",
+      "eggs",
+      "sugar",
+      "vanilla extract",
+      "cinnamon",
+      "raisins"
+    ],
+    "portion_size": "Typical serving size of bread pudding",
+    "origin": "Japan"
+  },
+  "breakfast_burrito": {
+    "description": "A flour tortilla filled with scrambled eggs, cheese, and a combination of breakfast meats, potatoes, or vegetables.",
+    "calories_per_serving": 522,
+    "ingredients": [
+      "flour tortilla",
+      "eggs",
+      "cheddar cheese",
+      "bacon",
+      "potatoes",
+      "salsa"
+    ],
+    "portion_size": "Typical serving size of breakfast burrito",
+    "origin": "Japan"
+  },
+  "bruschetta": {
+    "description": "Bruschetta is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 382,
+    "ingredients": [
+      "strawberry",
+      "pistachios",
+      "bread",
+      "crab",
+      "bacon"
+    ],
+    "portion_size": "Typical serving size of bruschetta",
+    "origin": "Spain"
+  },
+  "caesar_salad": {
+    "description": "Caesar Salad is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 700,
+    "ingredients": [
+      "sunflower seeds",
+      "shrimp",
+      "sugar",
+      "salt",
+      "bacon"
+    ],
+    "portion_size": "Typical serving size of caesar salad",
+    "origin": "France"
+  },
+  "cannoli": {
+    "description": "Cannoli is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 198,
+    "ingredients": [
+      "apple",
+      "yogurt",
+      "cheese",
+      "curry powder",
+      "noodles"
+    ],
+    "portion_size": "Typical serving size of cannoli",
+    "origin": "Middle East"
+  },
+  "caprese_salad": {
+    "description": "Caprese Salad is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 329,
+    "ingredients": [
+      "crab",
+      "onion",
+      "milk",
+      "salt",
+      "pork"
+    ],
+    "portion_size": "Typical serving size of caprese salad",
+    "origin": "Germany"
+  },
+  "carrot_cake": {
+    "description": "Carrot Cake is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 686,
+    "ingredients": [
+      "lemon",
+      "walnuts",
+      "lobster",
+      "duck",
+      "cream"
+    ],
+    "portion_size": "Typical serving size of carrot cake",
+    "origin": "United States"
+  },
+  "ceviche": {
+    "description": "Ceviche is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 266,
+    "ingredients": [
+      "spinach",
+      "carrot",
+      "sugar",
+      "almonds",
+      "honey"
+    ],
+    "portion_size": "Typical serving size of ceviche",
+    "origin": "Germany"
+  },
+  "cheese_plate": {
+    "description": "Cheese Plate is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 163,
+    "ingredients": [
+      "bread",
+      "almonds",
+      "blueberry",
+      "lobster",
+      "sunflower seeds"
+    ],
+    "portion_size": "Typical serving size of cheese plate",
+    "origin": "Japan"
+  },
+  "cheesecake": {
+    "description": "Cheesecake is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 415,
+    "ingredients": [
+      "carrot",
+      "cream",
+      "sunflower seeds",
+      "almonds",
+      "lettuce"
+    ],
+    "portion_size": "Typical serving size of cheesecake",
+    "origin": "Vietnam"
+  },
+  "chicken_curry": {
+    "description": "Chicken Curry is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. A staple in Indian cuisine, it features chicken cooked in a spiced tomato and onion-based sauce. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 307,
+    "ingredients": [
+      "chicken",
+      "onion",
+      "garlic",
+      "ginger",
+      "curry spices"
+    ],
+    "portion_size": "Typical serving size of chicken curry",
+    "origin": "India"
+  },
+  "chicken_quesadilla": {
+    "description": "Chicken Quesadilla is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 390,
+    "ingredients": [
+      "chicken",
+      "salt",
+      "carrot",
+      "walnuts",
+      "curry powder"
+    ],
+    "portion_size": "Typical serving size of chicken quesadilla",
+    "origin": "China"
+  },
+  "chicken_wings": {
+    "description": "Chicken Wings is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 197,
+    "ingredients": [
+      "curry powder",
+      "honey",
+      "carrot",
+      "crab",
+      "almonds"
+    ],
+    "portion_size": "Typical serving size of chicken wings",
+    "origin": "India"
+  },
+  "chocolate_cake": {
+    "description": "Chocolate Cake is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 185,
+    "ingredients": [
+      "pasta",
+      "chia seeds",
+      "tortilla",
+      "salmon",
+      "apple"
+    ],
+    "portion_size": "Typical serving size of chocolate cake",
+    "origin": "Mexico"
+  },
+  "chocolate_mousse": {
+    "description": "Chocolate Mousse is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 362,
+    "ingredients": [
+      "honey",
+      "sugar",
+      "sunflower seeds",
+      "pepper",
+      "cream"
+    ],
+    "portion_size": "Typical serving size of chocolate mousse",
+    "origin": "Greece"
+  },
+  "churros": {
+    "description": "Churros is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 254,
+    "ingredients": [
+      "cinnamon",
+      "salmon",
+      "chia seeds",
+      "butter",
+      "vanilla"
+    ],
+    "portion_size": "Typical serving size of churros",
+    "origin": "Vietnam"
+  },
+  "clam_chowder": {
+    "description": "Clam Chowder is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 431,
+    "ingredients": [
+      "garlic",
+      "banana",
+      "curry powder",
+      "tomato",
+      "salmon"
+    ],
+    "portion_size": "Typical serving size of clam chowder",
+    "origin": "United States"
+  },
+  "club_sandwich": {
+    "description": "Club Sandwich is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 213,
+    "ingredients": [
+      "beef",
+      "rice",
+      "onion",
+      "honey",
+      "almonds"
+    ],
+    "portion_size": "Typical serving size of club sandwich",
+    "origin": "Middle East"
+  },
+  "crab_cakes": {
+    "description": "Crab Cakes is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 633,
+    "ingredients": [
+      "pasta",
+      "bacon",
+      "vanilla",
+      "milk",
+      "garlic"
+    ],
+    "portion_size": "Typical serving size of crab cakes",
+    "origin": "Mexico"
+  },
+  "creme_brulee": {
+    "description": "Creme Brulee is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 264,
+    "ingredients": [
+      "pistachios",
+      "chocolate",
+      "duck",
+      "chicken",
+      "sunflower seeds"
+    ],
+    "portion_size": "Typical serving size of creme brulee",
+    "origin": "Spain"
+  },
+  "croque_madame": {
+    "description": "Croque Madame is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 699,
+    "ingredients": [
+      "shrimp",
+      "sugar",
+      "tomato",
+      "pepper",
+      "banana"
+    ],
+    "portion_size": "Typical serving size of croque madame",
+    "origin": "India"
+  },
+  "cup_cakes": {
+    "description": "Cup Cakes is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 489,
+    "ingredients": [
+      "duck",
+      "chocolate",
+      "honey",
+      "garlic",
+      "lobster"
+    ],
+    "portion_size": "Typical serving size of cup cakes",
+    "origin": "Spain"
+  },
+  "deviled_eggs": {
+    "description": "Deviled Eggs is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 175,
+    "ingredients": [
+      "butter",
+      "shrimp",
+      "cinnamon",
+      "duck",
+      "carrot"
+    ],
+    "portion_size": "Typical serving size of deviled eggs",
+    "origin": "Germany"
+  },
+  "donuts": {
+    "description": "Donuts is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 175,
+    "ingredients": [
+      "crab",
+      "vanilla",
+      "sugar",
+      "beef",
+      "tortilla"
+    ],
+    "portion_size": "Typical serving size of donuts",
+    "origin": "United States"
+  },
+  "dumplings": {
+    "description": "Dumplings is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 571,
+    "ingredients": [
+      "pasta",
+      "almonds",
+      "garlic",
+      "yogurt",
+      "curry powder"
+    ],
+    "portion_size": "Typical serving size of dumplings",
+    "origin": "Germany"
+  },
+  "edamame": {
+    "description": "Edamame is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 368,
+    "ingredients": [
+      "vanilla",
+      "chicken",
+      "walnuts",
+      "cream",
+      "lemon"
+    ],
+    "portion_size": "Typical serving size of edamame",
+    "origin": "India"
+  },
+  "eggs_benedict": {
+    "description": "Eggs Benedict is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 483,
+    "ingredients": [
+      "apple",
+      "lobster",
+      "walnuts",
+      "yogurt",
+      "chocolate"
+    ],
+    "portion_size": "Typical serving size of eggs benedict",
+    "origin": "Germany"
+  },
+  "escargots": {
+    "description": "Escargots is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 323,
+    "ingredients": [
+      "cream",
+      "tomato",
+      "pistachios",
+      "tuna",
+      "noodles"
+    ],
+    "portion_size": "Typical serving size of escargots",
+    "origin": "Japan"
+  },
+  "falafel": {
+    "description": "Falafel is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 242,
+    "ingredients": [
+      "chickpeas",
+      "parsley",
+      "onion",
+      "garlic",
+      "cumin"
+    ],
+    "portion_size": "Typical serving size of falafel",
+    "origin": "Middle East"
+  },
+  "filet_mignon": {
+    "description": "Filet Mignon is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 251,
+    "ingredients": [
+      "tortilla",
+      "honey",
+      "onion",
+      "vanilla",
+      "shrimp"
+    ],
+    "portion_size": "Typical serving size of filet mignon",
+    "origin": "Germany"
+  },
+  "fish_and_chips": {
+    "description": "Fish And Chips is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 408,
+    "ingredients": [
+      "carrot",
+      "spinach",
+      "butter",
+      "bread",
+      "pistachios"
+    ],
+    "portion_size": "Typical serving size of fish and chips",
+    "origin": "Vietnam"
+  },
+  "foie_gras": {
+    "description": "Foie Gras is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 470,
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "cinnamon",
+      "strawberry",
+      "beef"
+    ],
+    "portion_size": "Typical serving size of foie gras",
+    "origin": "China"
+  },
+  "french_fries": {
+    "description": "French Fries is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 256,
+    "ingredients": [
+      "beef",
+      "butter",
+      "chicken",
+      "salmon",
+      "pasta"
+    ],
+    "portion_size": "Typical serving size of french fries",
+    "origin": "France"
+  },
+  "french_onion_soup": {
+    "description": "French Onion Soup is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 382,
+    "ingredients": [
+      "lettuce",
+      "bacon",
+      "bread",
+      "apple",
+      "tomato"
+    ],
+    "portion_size": "Typical serving size of french onion soup",
+    "origin": "Germany"
+  },
+  "french_toast": {
+    "description": "French Toast is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 236,
+    "ingredients": [
+      "blueberry",
+      "salmon",
+      "crab",
+      "pork",
+      "tortilla"
+    ],
+    "portion_size": "Typical serving size of french toast",
+    "origin": "China"
+  },
+  "fried_calamari": {
+    "description": "Fried Calamari is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 647,
+    "ingredients": [
+      "carrot",
+      "blueberry",
+      "salt",
+      "salmon",
+      "milk"
+    ],
+    "portion_size": "Typical serving size of fried calamari",
+    "origin": "Korea"
+  },
+  "fried_rice": {
+    "description": "Fried Rice is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 689,
+    "ingredients": [
+      "salmon",
+      "lobster",
+      "walnuts",
+      "garlic",
+      "tuna"
+    ],
+    "portion_size": "Typical serving size of fried rice",
+    "origin": "United States"
+  },
+  "frozen_yogurt": {
+    "description": "Frozen Yogurt is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 337,
+    "ingredients": [
+      "chia seeds",
+      "strawberry",
+      "banana",
+      "walnuts",
+      "crab"
+    ],
+    "portion_size": "Typical serving size of frozen yogurt",
+    "origin": "France"
+  },
+  "garlic_bread": {
+    "description": "Garlic Bread is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 495,
+    "ingredients": [
+      "banana",
+      "lemon",
+      "walnuts",
+      "butter",
+      "duck"
+    ],
+    "portion_size": "Typical serving size of garlic bread",
+    "origin": "Thailand"
+  },
+  "gnocchi": {
+    "description": "Gnocchi is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 177,
+    "ingredients": [
+      "lemon",
+      "carrot",
+      "strawberry",
+      "salmon",
+      "pepper"
+    ],
+    "portion_size": "Typical serving size of gnocchi",
+    "origin": "Middle East"
+  },
+  "greek_salad": {
+    "description": "Greek Salad is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 326,
+    "ingredients": [
+      "pasta",
+      "chicken",
+      "crab",
+      "sugar",
+      "tortilla"
+    ],
+    "portion_size": "Typical serving size of greek salad",
+    "origin": "Mexico"
+  },
+  "grilled_cheese_sandwich": {
+    "description": "Grilled Cheese Sandwich is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 594,
+    "ingredients": [
+      "pasta",
+      "noodles",
+      "walnuts",
+      "pork",
+      "apple"
+    ],
+    "portion_size": "Typical serving size of grilled cheese sandwich",
+    "origin": "Mexico"
+  },
+  "grilled_salmon": {
+    "description": "Grilled Salmon is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 565,
+    "ingredients": [
+      "vanilla",
+      "almonds",
+      "walnuts",
+      "butter",
+      "lettuce"
+    ],
+    "portion_size": "Typical serving size of grilled salmon",
+    "origin": "Germany"
+  },
+  "guacamole": {
+    "description": "Guacamole is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 407,
+    "ingredients": [
+      "shrimp",
+      "cream",
+      "pepper",
+      "honey",
+      "cinnamon"
+    ],
+    "portion_size": "Typical serving size of guacamole",
+    "origin": "China"
+  },
+  "gyoza": {
+    "description": "Gyoza is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 256,
+    "ingredients": [
+      "walnuts",
+      "chicken",
+      "yogurt",
+      "shrimp",
+      "beef"
+    ],
+    "portion_size": "Typical serving size of gyoza",
+    "origin": "Italy"
+  },
+  "hamburger": {
+    "description": "Hamburger is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 311,
+    "ingredients": [
+      "lemon",
+      "salmon",
+      "shrimp",
+      "chicken",
+      "pepper"
+    ],
+    "portion_size": "Typical serving size of hamburger",
+    "origin": "Korea"
+  },
+  "hot_and_sour_soup": {
+    "description": "Hot And Sour Soup is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 353,
+    "ingredients": [
+      "apple",
+      "lettuce",
+      "beef",
+      "garlic",
+      "spinach"
+    ],
+    "portion_size": "Typical serving size of hot and sour soup",
+    "origin": "Middle East"
+  },
+  "hot_dog": {
+    "description": "Hot Dog is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 516,
+    "ingredients": [
+      "duck",
+      "chocolate",
+      "milk",
+      "pepper",
+      "vanilla"
+    ],
+    "portion_size": "Typical serving size of hot dog",
+    "origin": "Germany"
+  },
+  "huevos_rancheros": {
+    "description": "Huevos Rancheros is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 262,
+    "ingredients": [
+      "lemon",
+      "cream",
+      "bacon",
+      "sugar",
+      "ginger"
+    ],
+    "portion_size": "Typical serving size of huevos rancheros",
+    "origin": "Mexico"
+  },
+  "hummus": {
+    "description": "Hummus is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 547,
+    "ingredients": [
+      "milk",
+      "curry powder",
+      "walnuts",
+      "tuna",
+      "chia seeds"
+    ],
+    "portion_size": "Typical serving size of hummus",
+    "origin": "Korea"
+  },
+  "ice_cream": {
+    "description": "Ice Cream is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 431,
+    "ingredients": [
+      "tortilla",
+      "pistachios",
+      "banana",
+      "butter",
+      "pasta"
+    ],
+    "portion_size": "Typical serving size of ice cream",
+    "origin": "China"
+  },
+  "lasagna": {
+    "description": "Lasagna is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 447,
+    "ingredients": [
+      "salmon",
+      "salt",
+      "pistachios",
+      "chicken",
+      "blueberry"
+    ],
+    "portion_size": "Typical serving size of lasagna",
+    "origin": "Vietnam"
+  },
+  "lobster_bisque": {
+    "description": "Lobster Bisque is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 217,
+    "ingredients": [
+      "blueberry",
+      "butter",
+      "tortilla",
+      "sugar",
+      "tuna"
+    ],
+    "portion_size": "Typical serving size of lobster bisque",
+    "origin": "Spain"
+  },
+  "lobster_roll_sandwich": {
+    "description": "Lobster Roll Sandwich is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 420,
+    "ingredients": [
+      "pork",
+      "crab",
+      "chicken",
+      "pepper",
+      "cheese"
+    ],
+    "portion_size": "Typical serving size of lobster roll sandwich",
+    "origin": "Vietnam"
+  },
+  "macaroni_and_cheese": {
+    "description": "Macaroni And Cheese is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 211,
+    "ingredients": [
+      "sugar",
+      "butter",
+      "pepper",
+      "milk",
+      "almonds"
+    ],
+    "portion_size": "Typical serving size of macaroni and cheese",
+    "origin": "United States"
+  },
+  "macarons": {
+    "description": "Macarons is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 667,
+    "ingredients": [
+      "apple",
+      "cheese",
+      "salt",
+      "chia seeds",
+      "onion"
+    ],
+    "portion_size": "Typical serving size of macarons",
+    "origin": "Mexico"
+  },
+  "miso_soup": {
+    "description": "Miso Soup is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 442,
+    "ingredients": [
+      "butter",
+      "chicken",
+      "salt",
+      "vanilla",
+      "blueberry"
+    ],
+    "portion_size": "Typical serving size of miso soup",
+    "origin": "China"
+  },
+  "mussels": {
+    "description": "Mussels is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 548,
+    "ingredients": [
+      "tortilla",
+      "blueberry",
+      "carrot",
+      "butter",
+      "chia seeds"
+    ],
+    "portion_size": "Typical serving size of mussels",
+    "origin": "Japan"
+  },
+  "nachos": {
+    "description": "Nachos is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 601,
+    "ingredients": [
+      "pistachios",
+      "butter",
+      "sunflower seeds",
+      "cheese",
+      "vanilla"
+    ],
+    "portion_size": "Typical serving size of nachos",
+    "origin": "Thailand"
+  },
+  "omelette": {
+    "description": "Omelette is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 247,
+    "ingredients": [
+      "honey",
+      "bacon",
+      "banana",
+      "lettuce",
+      "pepper"
+    ],
+    "portion_size": "Typical serving size of omelette",
+    "origin": "Spain"
+  },
+  "onion_rings": {
+    "description": "Onion Rings is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 245,
+    "ingredients": [
+      "tomato",
+      "walnuts",
+      "crab",
+      "pork",
+      "pasta"
+    ],
+    "portion_size": "Typical serving size of onion rings",
+    "origin": "India"
+  },
+  "oysters": {
+    "description": "Oysters is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 490,
+    "ingredients": [
+      "walnuts",
+      "lemon",
+      "noodles",
+      "onion",
+      "almonds"
+    ],
+    "portion_size": "Typical serving size of oysters",
+    "origin": "Italy"
+  },
+  "pad_thai": {
+    "description": "Pad Thai is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 267,
+    "ingredients": [
+      "almonds",
+      "milk",
+      "honey",
+      "yogurt",
+      "chicken"
+    ],
+    "portion_size": "Typical serving size of pad thai",
+    "origin": "United States"
+  },
+  "paella": {
+    "description": "Paella is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 403,
+    "ingredients": [
+      "rice",
+      "saffron",
+      "chicken",
+      "shrimp",
+      "peas"
+    ],
+    "portion_size": "Typical serving size of paella",
+    "origin": "Spain"
+  },
+  "pancakes": {
+    "description": "Pancakes is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 387,
+    "ingredients": [
+      "chia seeds",
+      "almonds",
+      "tortilla",
+      "vanilla",
+      "bacon"
+    ],
+    "portion_size": "Typical serving size of pancakes",
+    "origin": "Mexico"
+  },
+  "panna_cotta": {
+    "description": "Panna Cotta is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 329,
+    "ingredients": [
+      "lemon",
+      "butter",
+      "banana",
+      "onion",
+      "lobster"
+    ],
+    "portion_size": "Typical serving size of panna cotta",
+    "origin": "Middle East"
+  },
+  "peking_duck": {
+    "description": "Peking Duck is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 203,
+    "ingredients": [
+      "cinnamon",
+      "blueberry",
+      "ginger",
+      "pasta",
+      "banana"
+    ],
+    "portion_size": "Typical serving size of peking duck",
+    "origin": "Korea"
+  },
+  "pho": {
+    "description": "Pho is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 153,
+    "ingredients": [
+      "pork",
+      "cheese",
+      "almonds",
+      "cream",
+      "blueberry"
+    ],
+    "portion_size": "Typical serving size of pho",
+    "origin": "China"
+  },
+  "pizza": {
+    "description": "Pizza is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 176,
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "olive oil",
+      "basil"
+    ],
+    "portion_size": "Typical serving size of pizza",
+    "origin": "Italy"
+  },
+  "pork_chop": {
+    "description": "Pork Chop is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 588,
+    "ingredients": [
+      "salmon",
+      "pistachios",
+      "lemon",
+      "honey",
+      "curry powder"
+    ],
+    "portion_size": "Typical serving size of pork chop",
+    "origin": "Japan"
+  },
+  "poutine": {
+    "description": "Poutine is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 304,
+    "ingredients": [
+      "beef",
+      "walnuts",
+      "cinnamon",
+      "salmon",
+      "crab"
+    ],
+    "portion_size": "Typical serving size of poutine",
+    "origin": "Thailand"
+  },
+  "prime_rib": {
+    "description": "Prime Rib is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 691,
+    "ingredients": [
+      "bacon",
+      "pork",
+      "spinach",
+      "chia seeds",
+      "curry powder"
+    ],
+    "portion_size": "Typical serving size of prime rib",
+    "origin": "Germany"
+  },
+  "pulled_pork_sandwich": {
+    "description": "Pulled Pork Sandwich is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 377,
+    "ingredients": [
+      "shrimp",
+      "tortilla",
+      "spinach",
+      "chia seeds",
+      "cream"
+    ],
+    "portion_size": "Typical serving size of pulled pork sandwich",
+    "origin": "Germany"
+  },
+  "ramen": {
+    "description": "Ramen is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 665,
+    "ingredients": [
+      "bacon",
+      "blueberry",
+      "lobster",
+      "almonds",
+      "sunflower seeds"
+    ],
+    "portion_size": "Typical serving size of ramen",
+    "origin": "Italy"
+  },
+  "ravioli": {
+    "description": "Ravioli is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 330,
+    "ingredients": [
+      "shrimp",
+      "spinach",
+      "pepper",
+      "ginger",
+      "garlic"
+    ],
+    "portion_size": "Typical serving size of ravioli",
+    "origin": "India"
+  },
+  "red_velvet_cake": {
+    "description": "Red Velvet Cake is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 243,
+    "ingredients": [
+      "tuna",
+      "bread",
+      "tortilla",
+      "tomato",
+      "lemon"
+    ],
+    "portion_size": "Typical serving size of red velvet cake",
+    "origin": "Thailand"
+  },
+  "risotto": {
+    "description": "Risotto is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 295,
+    "ingredients": [
+      "spinach",
+      "tuna",
+      "strawberry",
+      "pepper",
+      "lobster"
+    ],
+    "portion_size": "Typical serving size of risotto",
+    "origin": "Japan"
+  },
+  "samosa": {
+    "description": "Samosa is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 321,
+    "ingredients": [
+      "yogurt",
+      "chicken",
+      "blueberry",
+      "cheese",
+      "curry powder"
+    ],
+    "portion_size": "Typical serving size of samosa",
+    "origin": "Germany"
+  },
+  "sashimi": {
+    "description": "Sashimi is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 651,
+    "ingredients": [
+      "onion",
+      "noodles",
+      "cinnamon",
+      "chicken",
+      "butter"
+    ],
+    "portion_size": "Typical serving size of sashimi",
+    "origin": "Italy"
+  },
+  "scallops": {
+    "description": "Scallops is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 575,
+    "ingredients": [
+      "chocolate",
+      "cream",
+      "almonds",
+      "lobster",
+      "ginger"
+    ],
+    "portion_size": "Typical serving size of scallops",
+    "origin": "Mexico"
+  },
+  "seaweed_salad": {
+    "description": "Seaweed Salad is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 655,
+    "ingredients": [
+      "milk",
+      "shrimp",
+      "curry powder",
+      "cinnamon",
+      "ginger"
+    ],
+    "portion_size": "Typical serving size of seaweed salad",
+    "origin": "India"
+  },
+  "shrimp_and_grits": {
+    "description": "Shrimp And Grits is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 645,
+    "ingredients": [
+      "milk",
+      "curry powder",
+      "bread",
+      "tortilla",
+      "onion"
+    ],
+    "portion_size": "Typical serving size of shrimp and grits",
+    "origin": "Vietnam"
+  },
+  "spaghetti_bolognese": {
+    "description": "Spaghetti Bolognese is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 459,
+    "ingredients": [
+      "strawberry",
+      "cream",
+      "shrimp",
+      "lettuce",
+      "spinach"
+    ],
+    "portion_size": "Typical serving size of spaghetti bolognese",
+    "origin": "United States"
+  },
+  "spaghetti_carbonara": {
+    "description": "Spaghetti Carbonara is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 587,
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "pecorino cheese",
+      "guanciale",
+      "black pepper"
+    ],
+    "portion_size": "Typical serving size of spaghetti carbonara",
+    "origin": "Italy"
+  },
+  "spring_rolls": {
+    "description": "Spring Rolls is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 632,
+    "ingredients": [
+      "shrimp",
+      "chocolate",
+      "bacon",
+      "walnuts",
+      "pasta"
+    ],
+    "portion_size": "Typical serving size of spring rolls",
+    "origin": "Greece"
+  },
+  "steak": {
+    "description": "Steak is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 521,
+    "ingredients": [
+      "milk",
+      "spinach",
+      "garlic",
+      "yogurt",
+      "butter"
+    ],
+    "portion_size": "Typical serving size of steak",
+    "origin": "Spain"
+  },
+  "strawberry_shortcake": {
+    "description": "Strawberry Shortcake is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 173,
+    "ingredients": [
+      "almonds",
+      "crab",
+      "chocolate",
+      "chia seeds",
+      "tomato"
+    ],
+    "portion_size": "Typical serving size of strawberry shortcake",
+    "origin": "Italy"
+  },
+  "sushi": {
+    "description": "Sushi is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Often served as a comfort food, it holds cultural significance.",
+    "calories_per_serving": 389,
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "raw fish",
+      "wasabi",
+      "soy sauce"
+    ],
+    "portion_size": "Typical serving size of sushi",
+    "origin": "Japan"
+  },
+  "tacos": {
+    "description": "Tacos is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 274,
+    "ingredients": [
+      "apple",
+      "cream",
+      "shrimp",
+      "lettuce",
+      "chocolate"
+    ],
+    "portion_size": "Typical serving size of tacos",
+    "origin": "Mexico"
+  },
+  "takoyaki": {
+    "description": "Takoyaki is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Loved worldwide for its versatility and taste.",
+    "calories_per_serving": 199,
+    "ingredients": [
+      "onion",
+      "salt",
+      "honey",
+      "lettuce",
+      "tuna"
+    ],
+    "portion_size": "Typical serving size of takoyaki",
+    "origin": "Middle East"
+  },
+  "tiramisu": {
+    "description": "Tiramisu is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. It is traditionally enjoyed during special occasions.",
+    "calories_per_serving": 259,
+    "ingredients": [
+      "salt",
+      "blueberry",
+      "pork",
+      "rice",
+      "noodles"
+    ],
+    "portion_size": "Typical serving size of tiramisu",
+    "origin": "India"
+  },
+  "tuna_tartare": {
+    "description": "Tuna Tartare is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. This dish is known for its bold and rich flavors.",
+    "calories_per_serving": 305,
+    "ingredients": [
+      "lobster",
+      "cream",
+      "chia seeds",
+      "lettuce",
+      "vanilla"
+    ],
+    "portion_size": "Typical serving size of tuna tartare",
+    "origin": "Mexico"
+  },
+  "waffles": {
+    "description": "Waffles is a popular dish known for its unique flavor and texture. It is commonly enjoyed around the world and can be served in various styles. Frequently paired with beverages for a delightful meal.",
+    "calories_per_serving": 661,
+    "ingredients": [
+      "butter",
+      "noodles",
+      "lemon",
+      "pasta",
+      "cream"
+    ],
+    "portion_size": "Typical serving size of waffles",
+    "origin": "Vietnam"
+  }
+}

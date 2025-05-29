@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Taste Scope:Food Identifier</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🍱 Food Identifier</h1>
+        <p class="subtext">Upload a photo of a dish and get detailed information instantly.</p>
+
+        <form method="post" action="/classify" enctype="multipart/form-data" class="upload-form">
+            <label for="imageInput" class="custom-file-input">📤 Choose an image</label>
+            <input type="file" name="image" id="imageInput" accept="image/*" required>
+            <img id="preview" src="#" alt="Image Preview" class="preview-img" style="display:none;">
+            <button type="submit" class="submit-button">🔍 Classify Image</button>
+        </form>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/preview.js') }}"></script>
+</body>
+</html>

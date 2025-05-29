@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Taste Scope</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <style>
+        .layout-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+        }
+
+        .image-side {
+            flex: 1 1 300px;
+            text-align: center;
+        }
+
+        .button-side {
+            flex: 1 1 250px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: stretch;
+        }
+
+        .buttons button {
+            width: 100%;
+        }
+
+        .result-section {
+            margin-top: 40px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🍽️ Result</h1>
+
+    <div class="layout-container">
+        <div class="image-side">
+            <img src="{{ image_url }}" alt="Uploaded Image" class="preview-img">
+            <p class="highlight">Predicted Class: <strong>{{ prediction }}</strong></p>
+        </div>
+
+        <div class="button-side buttons">
+            <button onclick="toggleSection('desc')">📝 Description</button>
+            <button onclick="toggleSection('ing')">🥘 Ingredients</button>
+            <button onclick="toggleSection('cal')">🔥 Calories</button>
+            <button onclick="toggleSection('portion')">🍴 Portion Size</button>
+            <button onclick="toggleSection('origin')">🌍 Origin</button>
+        </div>
+    </div>
+
+    <div class="details result-section">
+        <div id="desc" class="detail-section">
+            <h3>📝 Description</h3>
+            <p>{{ description }}</p>
+        </div>
+        <div id="ing" class="detail-section">
+            <h3>🥘 Ingredients</h3>
+            <p>{{ ingredients }}</p>
+        </div>
+        <div id="cal" class="detail-section">
+            <h3>🔥 Calories</h3>
+            <p>{{ calories }}</p>
+        </div>
+        <div id="portion" class="detail-section">
+            <h3>🍴 Portion Size</h3>
+            <p>{{ portion_size }}</p>
+        </div>
+        <div id="origin" class="detail-section">
+            <h3>🌍 Origin</h3>
+            <p>{{ origin }}</p>
+        </div>
+    </div>
+
+    <form action="/" method="get">
+        <button class="try-again" type="submit">🔄 Try Another Image</button>
+    </form>
+</div>
+
+<script src="{{ url_for('static', filename='js/preview.js') }}"></script>
+</body>
+</html>
